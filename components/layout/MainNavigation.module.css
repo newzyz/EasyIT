@@ -1,0 +1,54 @@
+
+.logo {
+  font-size: 1.5rem;
+  color: white;
+  font-weight: bold;
+  margin-left: 10px;
+}
+
+.logo a{
+  font-size: 2rem;
+  color: white;
+  font-weight: bold;
+}
+
+.CartLogo {
+  font-size: 1.5rem;
+  color: white;
+  font-weight: bold;
+  align-self: right;
+  margin-right: 10px;
+
+}
+
+.CartLogo img{
+  height: 30px;
+  width: 30px;
+}
+
+.CartLogo a{
+  font-size: 2rem;
+  color: white;
+  font-weight: bold;
+}
+
+.LoginLogo {
+  font-size: 1.5rem;
+  color: white;
+  font-weight: bold;
+  align-self: right;
+  margin-right: 50px;
+
+}
+
+.LoginLogo img{
+  height: 30px;
+  width: 30px;
+}
+
+.LoginLogo a{
+  font-size: 2rem;
+  color: white;
+  font-weight: bold;
+}
+
